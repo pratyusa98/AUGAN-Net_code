@@ -25,6 +25,9 @@ The following process was followed in the study:
 5. **Merging Spectrograms**:
    - `2.merge_allspecto_one.ipynb`: This notebook merges all spectrograms into a single dataset, preparing it for classification.
 
+5. **plot_clean_noisy_denoise**:
+   - `plot_clean_noisy_denoise_5.m`: This code used for plotting and getting SNR value for clean, noisy and denoised data.
+
 6. **Classification**:
    - `4.Model_classify_noisy_denoisy.ipynb`: This notebook contains the classification model used to classify noisy and denoised heart sound signals, evaluating the model's performance on various metrics.
 
